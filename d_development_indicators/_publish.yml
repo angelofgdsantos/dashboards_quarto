@@ -1,0 +1,4 @@
+- source: dashboard_example.qmd
+  quarto-pub:
+    - id: 10e8a253-5030-47a3-9f7a-f7124cd2b36a
+      url: https://angelofgdsantos.quarto.pub/development-indicators
