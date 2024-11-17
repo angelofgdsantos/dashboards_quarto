@@ -1,1 +1,5 @@
-# dashboards_quarto
+# Dashboards using Quarto
+
+This repo has the files to create dashboards using Quarto
+
+- Development indicators
